@@ -5,9 +5,9 @@
 > Secret Store client Library (Java)
 > [nevermined.io](https://nevermined.io)
 
-![CI Build](https://github.com/nevermined-io/secret-store-client-java/workflows/Build/badge.svg)
-
-
+![Java Maven CI](https://github.com/nevermined-io/secret-store-client-java/workflows/Java%20Maven%20CI/badge.svg)
+![Release](https://github.com/nevermined-io/secret-store-client-java/workflows/Release/badge.svg)
+[![javadoc](https://javadoc.io/badge2/io.keyko/secret-store-client/javadoc.svg)](https://javadoc.io/doc/io.keyko/secret-store-client)
 
 ---
 
