@@ -1,0 +1,6 @@
+include CONTRIBUTING.md
+include CHANGELOG.md
+include LICENSE
+include README.md
+
+recursive-include docs *.rst conf.py Makefile make.bat *.jpg *.png *.gif
