@@ -28,7 +28,7 @@
 
         <web3j.version>4.0.1</web3j.version>
         <jackson.version>2.11.3</jackson.version>
-        <log4j.version>2.13.3</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <junit.version>4.13.1</junit.version>
         <typesafe-config.version>1.3.3</typesafe-config.version>
         <disableDoclint></disableDoclint>
